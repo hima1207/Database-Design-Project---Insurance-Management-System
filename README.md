@@ -1,5 +1,7 @@
 # Database-Design-Project---Insurance-Management-System
-This DB design and implementation projectcontains the following steps:
+Database1.accdb is the MS Access database schema 
+
+This DB design and implementation project contains the following steps:
 1. pickup an application problem of my own.
 2. Entity-Relationship model design.
 3. create the relations using MS Access, Oracle, or some other DBMS.
